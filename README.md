@@ -178,4 +178,5 @@ This project consists of player details which include the likes of player’s ag
 
 1. JSLint 
 
-For further queries : Drop me mail at inboxpraveen.17@gmail.com
+For further queries : Drop me mail at jaralisoumya20@gmail.com
+
